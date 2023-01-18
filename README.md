@@ -1,3 +1,3 @@
 # Halo333 Briefcase
 My briefcase
-<img src="logo.png"></img>
+<img src="pack_icon.png"></img>
